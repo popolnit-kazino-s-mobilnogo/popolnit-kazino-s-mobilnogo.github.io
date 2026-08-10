@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: popolnit-kazino-s-mobilnogo.github.io
+Sitemap: https://popolnit-kazino-s-mobilnogo.github.io/sitemap.xml
